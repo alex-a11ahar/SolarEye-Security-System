@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=N-Channel Mosfet NewDesignator=N-Channel Mosfet1
+Change Component Designator: OldDesignator=N-Channel Mosfet NewDesignator=N-Channel Mosfet2
+Change Component Designator: OldDesignator=N-Channel Mosfet NewDesignator=N-Channel Mosfet3
+Change Net Name : Old Net Name=NetN-Channel Mosfet_1 New Net Name=NetN-Channel Mosfet3_1
+Added Pin To Net: NetName=NetN-Channel Mosfet1_1 Pin=N-Channel Mosfet1-1
+Added Pin To Net: NetName=NetN-Channel Mosfet1_1 Pin=P?-1
+Added Pin To Net: NetName=NetN-Channel Mosfet1_1 Pin=Rpd-1
+Added Net: Name=NetN-Channel Mosfet1_1
+Added Pin To Net: NetName=NetN-Channel Mosfet2_1 Pin=N-Channel Mosfet2-1
+Added Pin To Net: NetName=NetN-Channel Mosfet2_1 Pin=P?-3
+Added Pin To Net: NetName=NetN-Channel Mosfet2_1 Pin=Rpd-1
+Added Net: Name=NetN-Channel Mosfet2_1
+Added Member To Class: ClassName=Relay control schematic Member=Component N-Channel Mosfet1 IRLB3813PBF
+Added Member To Class: ClassName=Relay control schematic Member=Component N-Channel Mosfet3 IRLB3813PBF
+Added Member To Class: ClassName=Relay control schematic Member=Component Rpd MFR-25FBF5210K
+Added Member To Class: ClassName=Relay control schematic Member=Component Rpd MFR-25FBF5210K

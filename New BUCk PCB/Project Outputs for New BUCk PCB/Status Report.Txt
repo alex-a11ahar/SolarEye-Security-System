@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [New BUCk PCB.PrjPcb]
+   Generated File[New BuckPCB.TXT]
+   Generated File[New BuckPCB.LDP]
+   Generated File[New BuckPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:22:23 PM On 3/4/2025

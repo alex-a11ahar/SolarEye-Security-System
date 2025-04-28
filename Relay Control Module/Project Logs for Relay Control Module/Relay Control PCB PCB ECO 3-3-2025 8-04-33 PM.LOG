@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Rpd NewDesignator=Rpd1
+Change Component Designator: OldDesignator=Rpd NewDesignator=Rpd2
+Change Component Designator: OldDesignator=Rpd NewDesignator=Rpd3
+Added Member To Class: ClassName=Relay control schematic Member=Component N-Channel Mosfet2 IRLB3813PBF
+Added Member To Class: ClassName=Relay control schematic Member=Component Rpd2 MFR-25FBF5210K
+Added Member To Class: ClassName=Relay control schematic Member=Component Rpd3 MFR-25FBF5210K

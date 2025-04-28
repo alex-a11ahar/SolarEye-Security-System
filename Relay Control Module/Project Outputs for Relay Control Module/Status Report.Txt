@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Relay Control Module.PrjPcb]
+   Generated File[Relay Control PCB.TXT]
+   Generated File[Relay Control PCB.LDP]
+   Generated File[Relay Control PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:32:12 PM On 3/4/2025
